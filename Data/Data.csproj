@@ -96,10 +96,6 @@
       <Project>{2bafd121-9a00-48e8-921a-fb250b8f81ca}</Project>
       <Name>Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MSSQL\MSSQL.csproj">
-      <Project>{d7c08863-5fbb-4131-b72c-2ca0e9ed3fe8}</Project>
-      <Name>MSSQL</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
